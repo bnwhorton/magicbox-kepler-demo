@@ -17,7 +17,11 @@
     "react-router-redux": "^4.0.8",
     "react-virtualized": "^9.18.5",
     "redux-actions": "^2.2.1",
-    "redux-thunk": "^1.0.0",
+    "redux-thunk": "^1.0.0"
+    "webpack": "^2.4.0",
+    "webpack-dev-server": "^2.4.0"
+  },
+  "devDependencies": {
     "babel-core": "^6.7.7",
     "babel-loader": "^6.2.10",
     "babel-plugin-module-resolver": "^3.0.0",
@@ -31,6 +35,4 @@
     "webpack": "^2.4.0",
     "webpack-dev-server": "^2.4.0"
   },
-  "devDependencies": {
-  }
 }
